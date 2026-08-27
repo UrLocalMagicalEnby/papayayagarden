@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/iyadi/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/iyadi/","dg-note-properties":{"type":"character"}}
 ---
 
 **

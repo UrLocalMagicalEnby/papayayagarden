@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/tyen/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/tyen/","dg-note-properties":{"type":"character"}}
 ---
 
 **

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/rosemary/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/rosemary/","dg-note-properties":{"type":"character"}}
 ---
 
 

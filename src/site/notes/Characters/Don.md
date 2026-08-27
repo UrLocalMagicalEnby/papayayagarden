@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/don/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/don/","dg-note-properties":{"type":"character"}}
 ---
 
 **

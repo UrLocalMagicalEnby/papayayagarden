@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/mikalah/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/mikalah/","dg-note-properties":{"type":"character"}}
 ---
 
 

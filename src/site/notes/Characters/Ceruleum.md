@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ceruleum/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/ceruleum/","dg-note-properties":{"type":"character"}}
 ---
 
 Name: Fuseclet Parkety

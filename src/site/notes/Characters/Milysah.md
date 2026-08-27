@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/milysah/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/milysah/","dg-note-properties":{"type":"character"}}
 ---
 
 Name: Tokeparra Mindi

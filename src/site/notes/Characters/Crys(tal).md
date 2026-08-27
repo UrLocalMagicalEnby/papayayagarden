@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/crys-tal/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/crys-tal/","dg-note-properties":{"type":"character"}}
 ---
 
 **
